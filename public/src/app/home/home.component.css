@@ -1,0 +1,10 @@
+button {
+	background: black; color: white;
+}
+* {
+	background: grey;
+}
+fieldset{
+	width: 30%;
+	margin-left: 460px;
+}
